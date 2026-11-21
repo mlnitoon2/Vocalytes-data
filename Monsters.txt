@@ -1,0 +1,40 @@
+Singles:
+A - Didgeridoo (Cloud)
+B - Synth Pad (Clover)
+C - Drum (Gravel)
+D - ??? (Saliva)
+E - Vocal (Sleet)
+
+Doubles:
+AB - ??? (Cloud, Clover)
+AC - Castanets (Cloud, Gravel)
+AD - ??? (Cloud, Saliva)
+AE - ??? (Cloud, Sleet)
+BC - Tambourine (Clover, Gravel)
+BD - Jaw harp (Clover, Saliva)
+BE - Recorder (Clover, Sleet)
+CD - Vocal (Gravel, Saliva)
+CE - Bassoon (Gravel, Sleet)
+DE - Mouth gargling sfx (Saliva, Sleet)
+
+Triples:
+ABC - ??? (Cloud, Clover, Gravel)
+ABD - ??? (Cloud, Clover, Saliva)
+ABE - ??? (Cloud, Clover, Sleet)
+ACD - ??? (Cloud, Gravel, Saliva)
+ACE - ??? (Cloud, Gravel, Sleet)
+ADE - ??? (Cloud, Saliva, Sleet)
+BCD - Cello (Clover, Gravel, Saliva)
+BCE - Banjo (Clover, Gravel, Sleet)
+BDE - Vocal (Clover, Saliva, Sleet)
+CDE - Ukelele (Gravel, Saliva, Sleet)
+
+Quadruples:
+ABCD - ??? (Cloud, Clover, Gravel, Saliva)
+ABCE - ??? (Cloud, Clover, Gravel, Sleet)
+ABDE - ??? (Cloud, Clover, Saliva, Sleet)
+ACDE - ??? (Cloud, Gravel, Saliva, Sleet)
+BCDE - Melodica (Clover, Gravel, Saliva, Sleet)
+
+Quintuple:
+ABCDE - ??? (Cloud, Clover, Gravel, Saliva, Sleet)
