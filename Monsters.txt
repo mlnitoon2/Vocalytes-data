@@ -24,10 +24,10 @@ DE - Mouth gargling sfx (Saliva, Sleet)
 
 Triples:
 ABC - Acoustic guitar (Cloud, Clover, Gravel)
-ABD - Bubble popping (Cloud, Clover, Saliva)
+ABD - Otamatone (Cloud, Clover, Saliva)
 ABE - Whistling (Cloud, Clover, Sleet)
 ACD - Vocal (Cloud, Gravel, Saliva)
-ACE - Ice crunching (Cloud, Gravel, Sleet)
+ACE - Waterphone (Cloud, Gravel, Sleet)
 ADE - Theremin (Cloud, Saliva, Sleet)
 BCD - Cello (Clover, Gravel, Saliva)
 BCE - Banjo (Clover, Gravel, Sleet)
