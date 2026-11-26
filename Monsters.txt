@@ -9,6 +9,7 @@ G - Meltromup - Trombone (Syrup)
 H - Shinpanuth - Handpan (Bismuth)
 I - Leethallup - Vocal (Venom)
 J - Cwikaura - Cuica (Aurora)
+K - Bassie - Bass ()
 
 Doubles:
 AB - Ocarina (Cloud, Clover)
